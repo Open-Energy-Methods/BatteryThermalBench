@@ -70,3 +70,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC7941039/
 
 ## Licensing
 No datasets or third-party code are vendored in BatteryThermalBench. Verify every project's license and each dataset's independent terms before future reuse.
+
+
+## 2026-11-23 correction following direct user-provided files
+The earlier Oxford entry above described a metadata-only search. **That status is superseded:** the original 254 MiB `.mat` and a first-cycle `.mat` were provided and directly inspected. Oxford's README explicitly states ODbL 1.0/DbCL 1.0, so the prior 'archive blocked; file-level check not yet made' limitation no longer applies. The Stanford Catenaro/Onori primary 8-page paper was also manually reviewed, but its raw Excel files were not. The NASA catalog currently says 'This dataset has no data', and its license remains unspecified. For validated dataset status see [the dataset audit](DATASET_AUDIT_01_OXFORD_STANFORD_NASA.md); this addendum overrides any conflicting earlier statements in this file.
