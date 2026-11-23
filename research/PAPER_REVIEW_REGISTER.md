@@ -114,3 +114,7 @@ https://www.sciencedirect.com/science/article/pii/S1364032123009103
 4. Verify input boundary and measured temperature sensor placement; surface-vs-core is a major epistemic limitation.
 5. Determine whether two-phase results have reusable data, not merely published advantages over air/liquid cooling.
 6. Make independent baseline comparisons against PyBaMM and existing reduction models before custom implementation.
+
+
+## 2026-11-23 primary-source audit addendum
+Catenaro & Onori (2021), *Data in Brief* 35, 106894, DOI 10.1016/j.dib.2021.106894: original 8-page paper, including experimental methods, tables and figures, manually inspected. Primary XLSX data itself not yet inspected. Oxford original MAT files (main and example) directly inspected; they contain measured time, voltage, charge and surface temperature at 40 °C, with current in example segments. NASA catalog currently has no attached data resources. See [DATASET_AUDIT_01_OXFORD_STANFORD_NASA.md](DATASET_AUDIT_01_OXFORD_STANFORD_NASA.md), which supersedes older metadata-only availability descriptions.
