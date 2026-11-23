@@ -11,3 +11,5 @@ Work begins with a paper-by-paper source review, software and experimental data 
 - [Existing software and datasets](research/SOFTWARE_DATA_AUDIT.md)
 
 The repository is not affiliated with or endorsed by DTU or the MSCA TRAIN-FAST project. References to that call describe research motivation only.
+
+- [Direct experimental data audit: Oxford, Stanford and NASA (2026-11-23)](research/DATASET_AUDIT_01_OXFORD_STANFORD_NASA.md)
