@@ -16,3 +16,5 @@ The repository is not affiliated with or endorsed by DTU or the MSCA TRAIN-FAST 
 
 - [R1 Oxford record QC, anomaly exclusions, pre-registered evaluation splits and raw-data blockers](research/R1_OXFORD_QC_AND_HOLDOUT_PROTOCOL.md)
 - [Reproducible structural audit script](scripts/audit_oxford_structural.py)
+
+- [R1 dataset qualification tranche 02: 10C spatial thermography, P42A pulse measurements, Chen, pack and core sensors](research/R1_DATASET_QUALIFICATION_TRANCHE_02.md)
