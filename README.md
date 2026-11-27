@@ -13,3 +13,6 @@ Work begins with a paper-by-paper source review, software and experimental data 
 The repository is not affiliated with or endorsed by DTU or the MSCA TRAIN-FAST project. References to that call describe research motivation only.
 
 - [Direct experimental data audit: Oxford, Stanford and NASA (2026-11-23)](research/DATASET_AUDIT_01_OXFORD_STANFORD_NASA.md)
+
+- [R1 Oxford record QC, anomaly exclusions, pre-registered evaluation splits and raw-data blockers](research/R1_OXFORD_QC_AND_HOLDOUT_PROTOCOL.md)
+- [Reproducible structural audit script](scripts/audit_oxford_structural.py)
